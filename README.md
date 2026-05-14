@@ -5,9 +5,9 @@ I’m an aspiring Data Analyst with a background in molecular biology, genetics,
 Tools & Technologies: SQL, Excel, Python (Pandas), Power BI, Tableau, R
 
 Current Focus:
-Data cleaning and exploratory data analysis (EDA)
-Dashboard development and data visualization
-Building analytics projects using real-world datasets
+- Data cleaning and exploratory data analysis (EDA)
+- Dashboard development and data visualisation
+- Building analytics projects using real-world datasets
 
 Beyond Data
 Outside of analytics, I enjoy reading fiction, trekking, long-distance running, and strength training.
