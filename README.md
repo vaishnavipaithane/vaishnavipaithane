@@ -2,7 +2,7 @@ Hi, I’m Vaishnavi Paithane 👋
 
 I’m an aspiring Data Analyst with a background in molecular biology, genetics, and bioinformatics. I enjoy working with data to uncover patterns, build dashboards, and generate insights through analytics projects.
 
-## **Tools & Technologies**: 
+## **Tools & Technologies** 
 
 SQL, Excel, Python (Pandas), Power BI, Tableau, R
 
