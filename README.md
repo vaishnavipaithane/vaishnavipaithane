@@ -9,7 +9,7 @@ SQL, Excel, Python (Pandas), Power BI, Tableau, R
 ## **Current Focus**
 
 - Data cleaning and exploratory data analysis (EDA)
-- Dashboard development and data visualisation
+- Dashboard development and data visualization
 - Building analytics projects using real-world datasets
 
 ## **Beyond Data**
